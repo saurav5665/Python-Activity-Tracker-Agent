@@ -1,0 +1,5 @@
+boto3==1.24.12
+Pillow==9.1.0
+pyautogui==0.9.53
+configparser==5.2.0
+pytz==2023.3
